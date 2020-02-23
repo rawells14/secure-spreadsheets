@@ -10,7 +10,7 @@ export default class Home extends React.Component {
 
     this.connectToBridge();
 
-    this.numRows = 75;
+    this.numRows = 1000;
     this.numColumns = 26;
   }
 
